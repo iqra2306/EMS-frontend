@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: SedgwickAve-Regular
+font link: https://fonts.google.com/specimen/Sedgwick+Ave
+font author: Kevin Burke
+font author site: http://www.blastframe.com/
+
+
+icon designer: Gerald Wildmoser
+icon designer link: /creator/formbuero/
+        
+{"bg":"transparent","icon-gradient-0":"#E90DCA","icon-gradient-1":"#1536F1","font":"#000000","slogan":"#141414"}
+      

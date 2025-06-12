@@ -1,0 +1,25 @@
+.footer {
+    position: static;
+    /* fixed ensures it stays at the bottom even when scrolling */
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    position: absolute;
+    width: 100%;
+    min-height: 100vh;
+    background: #3d3039;
+    background: linear-gradient(0deg, rgba(61, 48, 57, 1) 0%, rgba(242, 235, 235, 1) 100%);
+}
+
+.login-center {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    min-height: 400px;
+}
